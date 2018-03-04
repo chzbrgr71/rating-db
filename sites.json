@@ -1,5 +1,26 @@
 [
     {
+        "name": "Football",
+        "shortCode": "FB",
+        "pages": {
+            "Home": {
+                "title": "Footballer Player Rating :: Homepage",
+                "headerImage": "/static/img/futbol/fifa-logo.png",
+                "subtitle": "Footballer Player Rating :: Homepage"
+            },
+            "Rating": {
+                "title": "Footballer Player Rating :: Rate the Players",
+                "headerImage": "/static/img/futbol/fifa-logo.png",
+                "subtitle": "Rate the Players"
+            },
+            "Leaderboard": {
+                "title": "Footballer Player Rating :: Current Leaderboard",
+                "headerImage": "/static/img/futbol/fifa-logo.png",
+                "subtitle": "Current Leaderboard"
+            }
+        }
+    },
+    {
         "name": "Boeing",
         "shortCode": "BOE",
         "pages": {
