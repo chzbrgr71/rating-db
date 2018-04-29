@@ -21,22 +21,22 @@
         }
     },
     {
-        "name": "Boeing",
-        "shortCode": "BOE",
+        "name": "Copenhagen",
+        "shortCode": "CPH",
         "pages": {
             "Home": {
-                "title": "Boeing Planes Rating :: Project Homepage",
-                "headerImage": "/static/img/boeing/boeing.png",
-                "subtitle": "Boeing Planes Rating :: Project Homepage"
+                "title": "Famous Danish People",
+                "headerImage": "/static/img/denmark/denmark-flag.png",
+                "subtitle": "Homepage"
             },
             "Rating": {
-                "title": "Boeing Planes Rating :: Rate the Planes",
-                "headerImage": "/static/img/boeing/boeing.png",
-                "subtitle": "Rate the Boeing Planes"
+                "title": "Famous Danish People",
+                "headerImage": "/static/img/denmark/denmark-flag.png",
+                "subtitle": "Rate the Danes"
             },
             "Leaderboard": {
-                "title": "Boeing Planes Rating :: Current Leaderboard",
-                "headerImage": "/static/img/boeing/boeing.png",
+                "title": "Famous Danish People",
+                "headerImage": "/static/img/denmark/denmark-flag.png",
                 "subtitle": "Current Leaderboard"
             }
         }
