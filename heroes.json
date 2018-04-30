@@ -1,4 +1,4 @@
-[{"_id":{"$oid":"5a4f97cddbbb7e24bd9a13d5"},"name":"Hans Christian Andersen","uid":1.0,"img":"/static/img/denmark/hans-christian-andersen.jpeg"},
+[{"_id":{"$oid":"5a4f97cddbbb7e24bd9a13d5"},"name":"Hans Christian Andersen","uid":1.0,"img":"/static/img/denmark/hans-christian-andersen.png"},
 {"_id":{"$oid":"5a4f97dcdbbb7e24bd9a13d6"},"name":"Caroline Wozniacki","uid":2.0,"img":"/static/img/denmark/caroline-wozniacki.jpeg"},
 {"_id":{"$oid":"5a4f97e7dbbb7e24bd9a13d7"},"name":"Lars Ulrich","uid":3.0,"img":"/static/img/denmark/lars-ulrich.jpeg"},
 {"_id":{"$oid":"5a4f97f0dbbb7e24bd9a13d8"},"name":"Helle Thorning-Schmidt","uid":4.0,"img":"/static/img/denmark/helle-thorning-schmidt.jpeg"}]
