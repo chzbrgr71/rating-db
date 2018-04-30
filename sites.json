@@ -27,17 +27,17 @@
             "Home": {
                 "title": "Famous Danish People",
                 "headerImage": "/static/img/denmark/denmark-flag.png",
-                "subtitle": "Homepage"
+                "subtitle": "Vote: http://aka.ms/heroes"
             },
             "Rating": {
                 "title": "Famous Danish People",
                 "headerImage": "/static/img/denmark/denmark-flag.png",
-                "subtitle": "Rate the Danes"
+                "subtitle": "Rate the Danes - http://aka.ms/heroes"
             },
             "Leaderboard": {
-                "title": "Famous Danish People",
+                "title": "Danish Leaderboard",
                 "headerImage": "/static/img/denmark/denmark-flag.png",
-                "subtitle": "Current Leaderboard"
+                "subtitle": "Leaderboard - http://aka.ms/heroes"
             }
         }
     },
